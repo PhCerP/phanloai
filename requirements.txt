@@ -1,0 +1,6 @@
+streamlit
+opencv-python  # or  if you are in a headless environment
+scikit-image
+scikit-learn
+opencv-python-headless
+# Add any other dependencies your project requires
